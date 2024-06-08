@@ -3,7 +3,7 @@
 
 #### **Comparative Analysis (from year 2019-2023)**
 
-I choose the varioud hardware and software based on personal research and the number for those hardware and software are hypothetical. The ultimate goal is to conduct cost-benefit analyses for various hardware and software acquisitions. This will be used to support data-driven decisions for procurement and disposal.
+I choose the various hardware and software based on personal research and some of the numbers for those hardware and software are hypothetical. The ultimate goal is to conduct cost-benefit analyses for various hardware and software acquisitions. This will be used to support data-driven decisions for procurement and disposal.
 
 The software that i choose to analyze are Microsoft Dynamics and DXC Enterprise Asset Management . As EIA grow and expand, it's important for them to invest in a reliable and scalable enterprise resourse planning (ERP) system. Dynamics 365 Business Central is a popular choice for growing businesses due to its flexibility, functionality, and ease of use. However, one of the biggest questions businesses have is how much does it cost to implement Dynamics 365 and DXC Enterprise Asser Management?
 
