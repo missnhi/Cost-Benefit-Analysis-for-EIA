@@ -1,24 +1,25 @@
-# Cost-Benefit-Analysis-for-airport
+# Cost-Benefit-Analysis-for-EIA
 ### I. Comparative Analysis and Trend Prediction
 
 #### **Comparative Analysis (from year 2019-2023)**
 
 I choose the various hardware and software based on personal research and some of the numbers for those hardware and software are hypothetical. The ultimate goal is to conduct cost-benefit analyses for various hardware and software acquisitions. This will be used to support data-driven decisions for procurement and disposal.
 
-The software that i choose to analyze are Microsoft Dynamics and DXC Enterprise Asset Management . As EIA grow and expand, it's important for them to invest in a reliable and scalable enterprise resourse planning (ERP) system. Dynamics 365 Business Central is a popular choice for growing businesses due to its flexibility, functionality, and ease of use. However, one of the biggest questions businesses have is how much does it cost to implement Dynamics 365 and DXC Enterprise Asser Management?
+The software that I choose to analyze are **Microsoft Dynamics** and **DXC Enterprise Asset Management**. As  Edmonton International Airport (EIA) grow and expand, it's important for them to invest in a reliable and scalable enterprise resourse planning (ERP) system. Dynamics 365 Business Central is a popular choice for growing businesses due to its flexibility, functionality, and ease of use. However, one of the biggest questions businesses have is how much does it cost to implement Dynamics 365 and DXC Enterprise Asser Management?
 
-##### Here is the cost breakdown that I made in Excel. 
+#### Here is the cost breakdown that I made in Excel. 
+
 ![image](https://github.com/missnhi/Cost-Benefit-Analysis-for-EIA/assets/62678881/f9f2ebd5-04a3-4f9b-b77a-11b4d514ab97)
 
-The reasons for the prices different is that: 
+The reasons for the price differences is that: 
 - DXC Enterprise Asset Management (DXC EAM) is used for EAM processes, including large-scale asset management, maintenance planning and work order management. This software has advanced features that include an entire lifecycle for physical assets (utilities, transportation, etc) that add to the complexity. 
 - Microsoft Dynamics is used for core finance and operations capabilities, including finance, human resources, procurement and inventory workloads. These activities are less specialized compared to DXC, thus, they costs significantly less than DXC.
 
 #### **Benefits of these software:** 
+    -    Reduce numerous spreadsheets and the difficulty of extracting information from the system. 
     -    Saving time in operations by increase accuracy, reduced delays, lower maintainance costs. 
     -    Increase revenue by raising passenger satisfaction. 
     -    Automating the asset management and maintenance processes, to capture a large percentage of EIA assets. 
-    -    Reduce numerous spreadsheets and the difficulty of extracting information from the system. 
 
 
 ### II. Total Intangible Asset Analysis from annual reports (2019-2023)
@@ -27,8 +28,11 @@ Here is a chart that show the change in intangible asset over the year from pre-
 ![image](https://github.com/missnhi/Cost-Benefit-Analysis-for-EIA/assets/62678881/537a38dd-f558-4134-843e-29af24c58355)
 
 
-Below is the data of intangible assets that I collected from the annual reports for reference:
-![image](https://github.com/missnhi/Cost-Benefit-Analysis-for-EIA/assets/62678881/1d79a494-d453-4501-855c-31a181e6499d)
+Below is the raw data of intangible assets that I collected from the annual reports for reference: (cost is in thousands)
+![image](https://github.com/missnhi/Cost-Benefit-Analysis-for-EIA/assets/62678881/07567b0d-6c34-4846-bfbe-4103934ed3b2)
+
+And here is the sumnary by year
+![image](https://github.com/missnhi/Cost-Benefit-Analysis-for-EIA/assets/62678881/05f08cc6-0040-4cf3-a896-25a810d6b0ea)
 
 1.  **Computer Software**
     -   **Cost**: There has been a major decrease in the cost of computer software from 2019 ($12,558,000) to 2020 ($12,813,000) to 2021 ($10,389,000), followed by a larger decrease in 2022 ($9,262,000) and then a slight increase in 2023 ($9,818,000).
