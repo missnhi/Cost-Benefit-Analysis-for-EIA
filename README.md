@@ -7,12 +7,19 @@ I choose the varioud hardware and software based on personal research and the nu
 
 The software that i choose to analyze are Microsoft Dynamics and DXC Enterprise Asset Management . As EIA grow and expand, it's important for them to invest in a reliable and scalable enterprise resourse planning (ERP) system. Dynamics 365 Business Central is a popular choice for growing businesses due to its flexibility, functionality, and ease of use. However, one of the biggest questions businesses have is how much does it cost to implement Dynamics 365 and DXC Enterprise Asser Management?
 
-Here is the cost breakdown that I made in Excel. 
+##### Here is the cost breakdown that I made in Excel. 
 ![image](https://github.com/missnhi/Cost-Benefit-Analysis-for-EIA/assets/62678881/f9f2ebd5-04a3-4f9b-b77a-11b4d514ab97)
 
 The reasons for the prices different is that: 
 - DXC Enterprise Asset Management (DXC EAM) is used for EAM processes, including large-scale asset management, maintenance planning and work order management. This software has advanced features that include an entire lifecycle for physical assets (utilities, transportation, etc) that add to the complexity. 
 - Microsoft Dynamics is used for core finance and operations capabilities, including finance, human resources, procurement and inventory workloads. These activities are less specialized compared to DXC, thus, they costs significantly less than DXC.
+
+##### Benefits of these software:
+    - Saving time in operations by increase accuracy, reduced delays, lower maintainance costs. 
+    - Increase revenue by raising passenger satisfaction. 
+    - Automating the asset management and maintenance processes, to capture a large percentage of EIA assets. 
+    - Reduce numerous spreadsheets and the difficulty of extracting information from the system. 
+
 
 ### II. Total Intangible Asset Analysis from annual reports (2019-2023)
 Finally, I collected real data from four annual reports of Edmonton International Airport from 2019 to 2024 on the cost of purchased computer software and software licenses within their finite useful lives. This aims to see the realistic money that was put into computer software. 
