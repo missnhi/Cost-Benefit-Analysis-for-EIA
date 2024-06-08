@@ -14,11 +14,11 @@ The reasons for the prices different is that:
 - DXC Enterprise Asset Management (DXC EAM) is used for EAM processes, including large-scale asset management, maintenance planning and work order management. This software has advanced features that include an entire lifecycle for physical assets (utilities, transportation, etc) that add to the complexity. 
 - Microsoft Dynamics is used for core finance and operations capabilities, including finance, human resources, procurement and inventory workloads. These activities are less specialized compared to DXC, thus, they costs significantly less than DXC.
 
-##### Benefits of these software:
-    - Saving time in operations by increase accuracy, reduced delays, lower maintainance costs. 
-    - Increase revenue by raising passenger satisfaction. 
-    - Automating the asset management and maintenance processes, to capture a large percentage of EIA assets. 
-    - Reduce numerous spreadsheets and the difficulty of extracting information from the system. 
+#### **Benefits of these software:** 
+    -    Saving time in operations by increase accuracy, reduced delays, lower maintainance costs. 
+    -    Increase revenue by raising passenger satisfaction. 
+    -    Automating the asset management and maintenance processes, to capture a large percentage of EIA assets. 
+    -    Reduce numerous spreadsheets and the difficulty of extracting information from the system. 
 
 
 ### II. Total Intangible Asset Analysis from annual reports (2019-2023)
